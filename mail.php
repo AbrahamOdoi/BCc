@@ -18,7 +18,6 @@
 			$message = $_POST['message'];
 			$to = "abrahamodoi2002@gmail.com";
 			$headers = "From:" . $name . "<" . $email . ">";
-
 			mail($to, $subject, $message, $headers);
 			if (mail) {
 				header("location:mainpage.php");
