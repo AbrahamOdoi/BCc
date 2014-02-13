@@ -26,7 +26,7 @@
 
 			<div style="text-align: center;">
 				<h1 style="color: gray;">CONTACT US</h1>
-				<form action="mail.php" method="post">
+				<form action="" method="post">
 					<input type="text" name="name" placeholder="Fullname" />
 					<input type="email" name="email" placeholder="Email"/>
 					<input type="text" name="subject" placeholder="Subject"/>
