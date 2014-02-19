@@ -11,9 +11,9 @@
 	</head>
 	<body>
 		<div id='page' data-role='page' style=" width: 100%; height: 100%;background:white;">
-			<img src="img/logo.png" id='splashimg' class='splashimg' style=" width: 50%;"/>
+			<img src="img/blue.png" id='splashimg' class='splashimg' style=" width: 100%;"/>
 			<div style="text-align: center">
-				<img src="img/download.jpg" id='splashimg' class='splashimg' style=''/>
+				<img src="img/logo.png" id='splashim' class='splashim' style=''/>
 			</div>
 			<div style="position: fixed;bottom: 0px;width: 100%;">
 				<a href="http://41.242.113.3/retaileraccount/index.php" data-role="button" data-icon="home" data-corners="false" data-theme="b">LOGIN</a>
