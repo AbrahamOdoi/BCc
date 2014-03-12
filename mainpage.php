@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
-	<title>ICGC Devotional</title>
 	<head>
+		<title>BLUE CLOUD NETWORKS</title>
 
 		<link rel="stylesheet" href="css/style.css" />
-		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
-		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
-		<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+		<!-- <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" /> -->
+		<link rel="stylesheet" href="jquery.mobile-1.2.0.min.css" />
+		<!-- <script src="http://code.jquery.com/jquery-1.8.2.min.js"></script> -->
+		<script src="jquery-1.8.2.min.js"></script>
+		<!-- <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script> -->
+		<script src="jquery.mobile-1.2.0.min.js"></script>
 
 	</head>
 	<body>
