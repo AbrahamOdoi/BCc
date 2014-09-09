@@ -19,9 +19,9 @@
 				<img src="img/logo.png" id='splashim' class='splashim' style=''/>
 			</div>
 			<div style="position: fixed;bottom: 0px;width: 100%;">
-				<a href="http://41.242.113.3/retaileraccount/index.php" data-role="button" data-icon="home" data-corners="false" data-theme="b">LOGIN</a>
+				<a href="http://196.11.90.1/retaileraccount/index.php" data-role="button" data-icon="home" data-corners="false" data-theme="b">LOGIN</a>
 				<a href="#mail" data-role="button" data-icon="grid" data-corners="false" data-theme="b">CONTACT US</a>
-				<a href="http://41.242.113.3/retaileraccount/logout.php" data-role="button" data-icon="back" data-corners="false" data-theme="b">LOGOUT</a>
+				<a href="http://196.11.90.12/retaileraccount/logout.php" data-role="button" data-icon="back" data-corners="false" data-theme="b">LOGOUT</a>
 			</div>
 		</div>
 		<div id='mail' data-role='page' style=" width: 100%; height: 100%;background:white;">
